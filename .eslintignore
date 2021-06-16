@@ -1,0 +1,6 @@
+**/*.js
+node_modules
+build
+package.json
+.next
+/*.js
